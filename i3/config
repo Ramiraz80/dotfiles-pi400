@@ -155,10 +155,10 @@ set $ws9 "9"
 set $ws10 "10"
 
 # define where workspaces go
-workspace 1 output HDMI-0
-workspace 2 output HDMI-0
-workspace 3 output HDMI-0
-workspace 4 output HDMI-0
+workspace 1 output HDMI-1
+workspace 2 output HDMI-1
+workspace 3 output HDMI-1
+workspace 4 output HDMI-1
 workspace 5 output HDMI-1
 workspace 6 output HDMI-1
 
